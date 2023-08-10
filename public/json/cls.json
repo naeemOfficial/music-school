@@ -1,0 +1,44 @@
+[
+  {
+    "image": "https://ibb.co/SNWXJ9y",
+    "class_name": "Piano Fundamentals",
+    "instructor_name": "Sarah Johnson",
+    "available_seats": 10,
+    "price": "$50"
+  },
+  {
+    "image": "https://ibb.co/xMMsk3W",
+    "class_name": "Guitar Essentials",
+    "instructor_name": "John Smith",
+    "available_seats": 8,
+    "price": "$45"
+  },
+  {
+    "image": "https://ibb.co/B40dS8k",
+    "class_name": "Singing Techniques",
+    "instructor_name": "Emily Brown",
+    "available_seats": 15,
+    "price": "$55"
+  },
+  {
+    "image": "https://ibb.co/42rFNdC",
+    "class_name": "Drum Basics",
+    "instructor_name": "Michael Lee",
+    "available_seats": 12,
+    "price": "$40"
+  },
+  {
+    "image": "https://ibb.co/7zpBGxk",
+    "class_name": "Violin Mastery",
+    "instructor_name": "Anna Wilson",
+    "available_seats": 6,
+    "price": "$65"
+  },
+  {
+    "image": "https://ibb.co/QXv06Hv",
+    "class_name": "Music Theory 101",
+    "instructor_name": "David Miller",
+    "available_seats": 20,
+    "price": "$30"
+  }
+]

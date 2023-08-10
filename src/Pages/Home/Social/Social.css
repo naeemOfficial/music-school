@@ -1,0 +1,25 @@
+.social-icons {
+  position: fixed;
+  top: 30%; /* Change the top value to 50% to center the icons vertically */
+  left: 20px; /* Adjust the right value to position the icons horizontally */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transform: translateY(-50%);
+  z-index: 999; /* Add z-index to ensure the icons stay above other elements */
+}
+
+.social-icon {
+  font-size: 50px;
+  color: #fff;
+  background-color: #59c6bc;
+  padding: 10px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.social-icon:hover {
+  transform: scale(1.1) translateY(-5px); /* Add translateY to create a floating effect on hover */
+  color: #007bff;
+}
